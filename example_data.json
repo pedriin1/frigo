@@ -1,0 +1,18 @@
+[
+  {
+    "nome": "Pedro",
+    "tipo": "pessoa",
+    "idade": 20,
+    "sexo": "masculino",
+    "altura": 1.8,
+    "peso": 80
+  },
+  {
+    "nome": "Andre",
+    "tipo": "pessoa",
+    "idade": 32,
+    "sexo": "masculino",
+    "altura": 1.7,
+    "peso": 70
+  }
+]
